@@ -5,6 +5,7 @@
 </style>
 
 <section class="main">
+  
   <div class="holder">
     <div class="row">
       <div class="col-lg-6 col-sm-12">
@@ -21,7 +22,7 @@
           <div class="buttonIn">
             <input type="text" id="enter" placeholder="enter your email" />
 
-            <button id="clear">clear</button>
+            <button id="clear">Enter</button>
           </div>
         </div>
       </div>
