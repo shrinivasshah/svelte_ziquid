@@ -1,6 +1,9 @@
 <script>
 </script>
 
+<style>
+</style>
+
 <section class="main">
   <div class="holder">
     <div class="row">
@@ -22,10 +25,9 @@
           </div>
         </div>
       </div>
+      <!-- <div class="col-lg-6 col-sm-12">
+        <img src="liquid.jpg" class="img-fluid" alt="" />
+      </div> -->
     </div>
   </div>
 </section>
-
-<style>
-    
-</style>
