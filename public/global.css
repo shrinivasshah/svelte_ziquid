@@ -680,6 +680,16 @@ td {
 }
 
 @media only screen and (max-width: 1323px) {
+  .liquid-background{
+  
+    background-position-y: 300px;
+    background-position-x: 150px;
+  }
+  .ziquid-lite{
+    width: 280px;
+    margin-top: 350px !important;
+    margin-left: 200px !important;
+  }
   .seventh{
     margin-top: 300px !important;
   }
@@ -722,6 +732,16 @@ td {
 }
 
 @media only screen and (max-width: 989px) {
+  .liquid-background{
+  
+    background-position-y: 200px;
+    background-position-x: 150px;
+  }
+  .ziquid-lite{
+    width: 280px;
+    margin-top: 250px !important;
+    margin-left: 0px !important;
+  }
   .form_container {
     margin-left: 0%;
     margin-top: 0;
