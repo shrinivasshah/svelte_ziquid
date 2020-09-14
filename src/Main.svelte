@@ -26,9 +26,9 @@
           </div>
         </div>
       </div>
-      <!-- <div class="col-lg-6 col-sm-12">
-        <img src="liquid.jpg" class="img-fluid" alt="" />
-      </div> -->
+      <div class="col-lg-6 col-sm-12 liquid-background">
+        <img src="./ziuqid.svg" class="ziquid-lite img-fluid" alt=""/>
+      </div>
     </div>
   </div>
 </section>
