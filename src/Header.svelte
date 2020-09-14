@@ -3,6 +3,17 @@
 
 <header>
   <nav>
+    <div class="loader">
+        <div class="particle"></div>
+        <div class="particle leftSpin"></div>
+        <div class="particle"></div>
+        <div class="particle rightSpin"></div>
+        <div class="particle"></div>
+        <div class="particle leftSpin"></div>
+        <div class="particle"></div>
+        <div class="particle rightSpin"></div>
+        <div class="particle"></div>
+      </div>
     <div><img src="./Logo.png" alt="logo" /></div>
     <div class="get_started"><button>Get Started</button></div>
   </nav>
