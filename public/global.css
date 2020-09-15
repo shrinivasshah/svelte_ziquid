@@ -522,9 +522,13 @@ nav img {
 .fourth img {
   width: 100px;
 }
+.img_list{
+  padding: 10px;
+}
 
 #eth {
   height: 100px;
+  width: 70px;
 }
 .padd {
   padding-top: 100px;
