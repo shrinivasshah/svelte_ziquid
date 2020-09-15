@@ -27,7 +27,7 @@
         </div>
       </div>
       <div class="col-lg-6 col-sm-12">
-        <!-- <img src="./zqmn.png" class="img-fluid" alt=""  style="width:200px" id="ziquid-lite"/> -->
+        <img src="./main2.svg" class="img-fluid custom_changes" alt="" id="ziquid-lite"/>
       </div>
     </div>
   </div>
