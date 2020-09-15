@@ -34,6 +34,19 @@ body {
   margin: 0 auto;
 }
 
+.liquid-background{
+  position: relative;
+  background:  url('./zqdmn.png')  no-repeat;
+  background-position-y: 150px;
+  background-position-x: 150px;
+}
+
+.ziquid-lite{
+  width: 280px;
+  margin-top: 200px !important;
+  margin-left: 200px !important;
+}
+
 header {
   width: 100%;
   top: 0;
@@ -538,6 +551,10 @@ nav img {
   margin-bottom: -30vh;
 }
 
+.sixth{
+  margin-bottom: 300px !important;
+}
+
 .seventh {
   min-height: 70vh;
   width: 70vw;
@@ -669,6 +686,19 @@ td {
 }
 
 @media only screen and (max-width: 1323px) {
+  .liquid-background{
+  
+    background-position-y: 300px;
+    background-position-x: 150px;
+  }
+  .ziquid-lite{
+    width: 280px;
+    margin-top: 350px !important;
+    margin-left: 200px !important;
+  }
+  .seventh{
+    margin-top: 300px !important;
+  }
   form {
     width: 100% !important;
   }
@@ -681,7 +711,19 @@ td {
   }
 }
 
+@media only screen and(max-width: 1295){
+  .seventh{
+    margin-top: 300px !important;
+  }
+} 
+
 @media only screen and (max-width: 991px) {
+  .ziquid-lite{
+    width: 280px;
+    margin-top: 0 !important;
+    margin-left: 0 !important;
+  }
+  
   form {
     margin-top: 5vh !important;
   }
@@ -696,6 +738,16 @@ td {
 }
 
 @media only screen and (max-width: 989px) {
+  .liquid-background{
+  
+    background-position-y: 200px;
+    background-position-x: 150px;
+  }
+  .ziquid-lite{
+    width: 280px;
+    margin-top: 250px !important;
+    margin-left: 0px !important;
+  }
   .form_container {
     margin-left: 0%;
     margin-top: 0;

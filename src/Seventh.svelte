@@ -6,7 +6,7 @@
   #submit:focus {
     border: none;
     outline: none;
-  }
+  } 
 
   form {
       width: 70%;
