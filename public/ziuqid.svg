@@ -1,33 +1,38 @@
-<svg width="475" height="475" viewBox="0 0 475 475" fill="none" xmlns="http://www.w3.org/2000/svg">
-<g filter="url(#filter0_bd)">
-<path d="M44 125C44 69.7715 88.7715 25 144 25H397V278C397 333.228 352.228 378 297 378H44V125Z" fill="white" fill-opacity="0.4"/>
-</g>
-<mask id="mask0" mask-type="alpha" maskUnits="userSpaceOnUse" x="44" y="25" width="353" height="353">
-<rect x="44" y="25" width="353" height="353" rx="100" fill="white" fill-opacity="0.4"/>
-</mask>
-<g mask="url(#mask0)">
-<path d="M301 93H2.68224L-3 96.5L2.68224 350L301 93Z" fill="url(#paint0_linear)"/>
-<path d="M168 314H466.318L472 310.5L466.318 57L168 314Z" fill="url(#paint1_linear)"/>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 475 475" style="enable-background:new 0 0 475 475;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-opacity:0.4;}
+	.st1{fill:#FFFFFF;fill-opacity:0.4;filter:url(#Adobe_OpacityMaskFilter);}
+	.st2{mask:url(#mask0_1_);}
+	.st3{fill:url(#SVGID_1_);}
+	.st4{fill:url(#SVGID_2_);}
+</style>
+<g>
+	<path class="st0" d="M55,136C55,80.8,99.8,36,155,36h253v253c0,55.2-44.8,100-100,100H55V136z"/>
 </g>
 <defs>
-<filter id="filter0_bd" x="0" y="-3" width="475" height="478" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
-<feFlood flood-opacity="0" result="BackgroundImageFix"/>
-<feGaussianBlur in="BackgroundImage" stdDeviation="14"/>
-<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur"/>
-<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0"/>
-<feOffset dx="17" dy="36"/>
-<feGaussianBlur stdDeviation="30.5"/>
-<feColorMatrix type="matrix" values="0 0 0 0 0.109375 0 0 0 0 0.170625 0 0 0 0 0.2625 0 0 0 0.09 0"/>
-<feBlend mode="normal" in2="effect1_backgroundBlur" result="effect2_dropShadow"/>
-<feBlend mode="normal" in="SourceGraphic" in2="effect2_dropShadow" result="shape"/>
-</filter>
-<linearGradient id="paint0_linear" x1="312.365" y1="101.5" x2="35.071" y2="101.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="white"/>
-<stop offset="1" stop-color="white" stop-opacity="0"/>
-</linearGradient>
-<linearGradient id="paint1_linear" x1="156.635" y1="305.5" x2="433.929" y2="305.5" gradientUnits="userSpaceOnUse">
-<stop stop-color="white"/>
-<stop offset="1" stop-color="white" stop-opacity="0"/>
-</linearGradient>
+	<filter id="Adobe_OpacityMaskFilter" filterUnits="userSpaceOnUse" x="9.5" y="66" width="475" height="293">
+		<feColorMatrix  type="matrix" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 1 0"/>
+	</filter>
 </defs>
+<mask maskUnits="userSpaceOnUse" x="9.5" y="66" width="475" height="293" id="mask0_1_">
+	<path class="st1" d="M156.5,34h153c55.2,0,100,44.8,100,100v153c0,55.2-44.8,100-100,100h-153c-55.2,0-100-44.8-100-100V134
+		C56.5,78.8,101.3,34,156.5,34z"/>
+</mask>
+<g class="st2">
+	
+		<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="324.865" y1="245.5" x2="47.571" y2="245.5" gradientTransform="matrix(1 0 0 -1 0 476)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path class="st3" d="M313.5,102H15.2l-5.7,3.5L15.2,359L313.5,102z"/>
+	
+		<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="169.135" y1="281.5" x2="446.429" y2="281.5" gradientTransform="matrix(1 0 0 -1 0 476)">
+		<stop  offset="0" style="stop-color:#FFFFFF"/>
+		<stop  offset="1" style="stop-color:#FFFFFF;stop-opacity:0"/>
+	</linearGradient>
+	<path class="st4" d="M180.5,323h298.3l5.7-3.5L478.8,66L180.5,323z"/>
+</g>
 </svg>

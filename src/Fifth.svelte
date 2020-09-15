@@ -7,7 +7,7 @@
 <section class="main fifth">
   <div class="row">
     <div class="col-lg-6 col-sm-12">
-      <img src="./section5left.svg" class="img-fluid" alt="svg" />
+      <img src="./section5left.svg" class="img-fluid small_screen" alt="svg" />
     </div>
     <div class="col-lg-6 col-sm-12 padd">
       <h6 class="text_blue">ZIQUID BUILD</h6>

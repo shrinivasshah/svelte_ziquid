@@ -26,7 +26,7 @@
       </p>
     </div>
     <div class="col-lg-6 col-md-12 col-sm-12">
-      <img src="./svg1.png" class="img-fluid second_right" alt="" />
+      <img src="./svg1.png" class="img-fluid second_right small_screen" alt="" />
     </div>
   </div>
 </section>
