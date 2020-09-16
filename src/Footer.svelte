@@ -1,7 +1,7 @@
 <footer>
   <div class="row">
     <div class="col-lg-4 col-sm-12 mid_class">
-      <div class="d-flex flex-column footer_left">
+      <div class="d-flex flex-column footer_left justify-content-center align-items-center">
         <div class="logo_name">
           <img src="./Logo.png" alt="logo" />
           <h6 class="crypto_details">THE FUTURE OF CRYPTO BHARAT</h6>
@@ -19,7 +19,7 @@
       </div>
     </div>
     <div class="col-lg-8 col-sm-12 mid_class">
-      <table class="offset-lg-5">
+      <table class="offset-lg-5 offset-sm-2">
         <thead>
           <th>Products</th>
           <th>Company</th>

@@ -20,7 +20,7 @@
           </p>
 
           <div class="buttonIn">
-            <input type="text" id="enter" placeholder="enter your email" />
+            <input type="text" id="enter" placeholder="Enter your email" />
 
             <button id="clear">Enter</button>
           </div>
