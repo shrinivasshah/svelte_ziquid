@@ -71,6 +71,7 @@ nav img {
     min-height: 100vh;
     width: 80vw;
     margin: 0 auto;
+    margin-bottom: 200px;
 }
 
 .custom_changes {
@@ -116,9 +117,14 @@ nav .get_started button:hover {
 nav img {
     width: 150px;
 }
+
+.second{
+  margin-bottom: 200px;
+}
+
 .second_right {
     margin-top: -100px;
-    margin-left: 100px;
+    /* margin-left: 100px; */
 }
 
 .in_background {
@@ -475,11 +481,11 @@ nav img {
     border-radius: 10px;
 }
 
-.second {
+/* .second {
     min-height: 60vh;
     width: 80vw;
     margin: 0 auto;
-}
+} */
 
 .margin_col {
     margin-top: 20vh;
@@ -494,6 +500,7 @@ nav img {
 }
 
 .third {
+    margin-top: 200px;
     margin-bottom: 10vh;
     position: relative;
 }
@@ -727,7 +734,7 @@ td {
     }
     .second_right {
         margin-top: 0px;
-        margin-left: 0px;
+        /* margin-left: 0px; */
     }
 }
 
@@ -765,9 +772,9 @@ td {
     footer {
         text-align: center !important;
     }
-    .small_screen {
+    /* .small_screen {
         width: 200px;
-    }
+    } */
     .form_container {
         margin-left: 0%;
     }

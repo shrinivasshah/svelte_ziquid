@@ -2,19 +2,14 @@
 </script>
 
 <style>
-  .second_right {
-    margin-top: -100px;
-    margin-left: 100px;
-  }
-
-  .second_right {
-    margin-top: -100px;
-    margin-left: 100px;
-  }
+  
 </style>
 
 <section class="second">
   <div class="row">
+    <div class="col-lg-6 col-md-12 col-sm-12">
+      <img src="./svg1.png" class="img-fluid second_right small_screen" alt="" />
+    </div>
     <div class="col-lg-6 col-sm-12">
       <h6 class="text_blue">ZIQUID: YOU BUILD, WE EMPOWER!</h6>
       <h1 class="title">Supercharged <strong>Ziquid</strong> API</h1>
@@ -25,9 +20,7 @@
         correctness and scalability is what makes us who we are.
       </p>
     </div>
-    <div class="col-lg-6 col-md-12 col-sm-12">
-      <img src="./svg1.png" class="img-fluid second_right small_screen" alt="" />
-    </div>
+    
   </div>
 </section>
 <section class="third">
